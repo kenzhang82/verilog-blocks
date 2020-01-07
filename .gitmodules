@@ -1,0 +1,6 @@
+[submodule "crypto/sha1"]
+	path = crypto/sha1
+	url = https://github.com/secworks/sha1.git
+[submodule "crypto/aes"]
+	path = crypto/aes
+	url = https://github.com/secworks/aes.git
