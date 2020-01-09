@@ -4,3 +4,6 @@
 [submodule "crypto/aes"]
 	path = crypto/aes
 	url = https://github.com/secworks/aes.git
+[submodule "peripherals/uart"]
+	path = peripherals/uart
+	url = https://github.com/jamieiles/uart.git
