@@ -7,3 +7,6 @@
 [submodule "peripherals/uart"]
 	path = peripherals/uart
 	url = https://github.com/jamieiles/uart.git
+[submodule "crypto/sha256"]
+	path = crypto/sha256
+	url = https://github.com/secworks/sha256.git
